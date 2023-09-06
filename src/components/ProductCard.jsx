@@ -3,7 +3,7 @@ import React from 'react'
 const ProductCard = ({name, title, content, img, id}) => {
   return (
     
-    <div id={id} className='px-4 py-4 md:px-0 md:py-0 flex md:flex-row flex-col h-[60vh] md:h-[400px] w-full border-b-2 border-black'>
+    <div id={id} className='px-4 py-4 md:px-0 md:py-0 flex md:flex-row flex-col h-[73vh] xs:h-[60vh] md:h-[400px] w-full border-b-2 border-black'>
       <div className='w-full md:w-1/2 md:h-full h-2/3 border-r-2 border-y-2 md:border-y-0 border-l-2 md:border-l-0 border-black '>
         <img src={img} className='w-full h-full object-cover'/>
       </div>

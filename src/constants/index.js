@@ -39,7 +39,7 @@ export const features = [
     icon: send,
     title: "Buen Precio",
     content:
-      "Manejamos distintos de precio dado que trabajamos con diferentes materiales, pero siempre buscamos darle el mejor precio posible a nuestros clientes.",
+      "Manejamos distintos precios dado que trabajamos con diferentes materiales, pero siempre buscamos darle el mejor precio posible a nuestros clientes.",
   },
 ];
 
