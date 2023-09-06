@@ -1,7 +1,7 @@
 {
   "name": "catalogo_web",
   "private": true,
-  "homepage": "http://javidlt.github.io/CatalogoWebLanding",
+  "homepage": "https://javidlt.github.io/CatalogoWebLanding/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
